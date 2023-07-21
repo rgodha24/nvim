@@ -8,5 +8,4 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
